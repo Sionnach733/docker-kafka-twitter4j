@@ -10,3 +10,4 @@ Producer uses stream from twitter(twitter4j)
 
 If not using intellij, cd into Docker-dir and run 'docker-compose up'
 
+
