@@ -1,0 +1,5 @@
+FROM java
+
+COPY DockerMultiContainerKafka.jar /
+
+CMD java -cp DockerMultiContainerKafka.jar MyKafkaConsumer

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact name="org_twitter4j_twitter4j-stream_4_0_4">
+    <output-path>$PROJECT_DIR$/out/artifacts/org_twitter4j_twitter4j_stream_4_0_4</output-path>
+    <root id="root">
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
